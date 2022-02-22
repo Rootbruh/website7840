@@ -1,0 +1,15 @@
+User-agent: *
+
+Allow: index.html
+
+Disallow: /LICENSE/
+Disallow: /main.css/
+Disallow: /robots.txt/
+
+Disallow: /about-frc_files/
+Disallow: /about-us_files/
+Disallow: /assets/
+Disallow: /events_files/
+Disallow: /index_files/
+Disallow: /our_robot_files/
+Disallow: /SPONSORLAR_files/
