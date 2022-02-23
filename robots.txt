@@ -13,3 +13,8 @@ Disallow: /events_files/
 Disallow: /index_files/
 Disallow: /our_robot_files/
 Disallow: /SPONSORLAR_files/
+
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /*.txt$
+
